@@ -24,7 +24,7 @@ It adds a little **bookmark icon** right on the YouTube player, and a popup wher
 git clone https://github.com/deepakumar427/YOUTUBE-BOOKMARK-EXTENSION.git
 
 
-###🛠️ Step 2: Load in Chrome
+### 🛠️ Step 2: Load in Chrome
 Open Chrome and go to:
 chrome://extensions
 Enable Developer Mode (top-right corner toggle)
@@ -32,7 +32,7 @@ Click “Load unpacked”
 Select the folder you just cloned (YOUTUBE-BOOKMARK-EXTENSION)
 ✅ That’s it — the extension is now installed!
 
-🎬 Step 3: Use It!
+### 🎬 Step 3: Use It!
 Open any YouTube video
 Look for the 🔖 bookmark icon on the video player
 Click it to add a custom bookmark
